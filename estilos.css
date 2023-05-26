@@ -17,10 +17,14 @@
     }
 
 }
+.cor-branca{
+    color: white;
+}
 .cor-verde{
     color: #DAFF01;
 }
 
 .botao-lilas{
     background-color: #9353FF;
+    
 }
